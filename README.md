@@ -7,7 +7,7 @@ We explore the data set provided by google trends ,for the searches made by the 
 ## Downloading the data
 click https://www.kaggle.com/GoogleNewsLab/health-searches-us-county to download the data.
 ## Usage
-Can be used for pharmaceutical companies to search the city that most seaches for a particular disease. 
+Can be used for pharmaceutical companies to search the city that most seaches for a particular disease so as to sell their products. 
 ## check out here
 click this https://wonderful-spence-4d33bc.netlify.com to have a demo.   
 
