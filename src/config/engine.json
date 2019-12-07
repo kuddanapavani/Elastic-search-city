@@ -1,0 +1,33 @@
+{
+  "engineName": "brainiac",
+  "hostIdentifier": "host-ayxcd7",
+  "endpointBase": "https://host-ayxcd7.api.swiftype.com",
+  "searchKey": "search-imrmixwp1eonnr97ct5mmp8u",
+  "resultFields": [
+    "dma",
+    "cancer",
+    "cardiovascular",
+    "stroke",
+    "depression",
+    "rehab",
+    "vaccine",
+    "diarrhea",
+    "obesity",
+    "diabetes",
+    "id"
+  ],
+  "sortFields": [
+    "cancer",
+    "cardiovascular",
+    "depression",
+    "diabetes",
+    "diarrhea",
+    "obesity",
+    "rehab",
+    "stroke",
+    "vaccine"
+  ],
+  "facets": [
+
+  ]
+}
